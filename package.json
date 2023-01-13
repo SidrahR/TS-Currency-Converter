@@ -1,0 +1,30 @@
+{
+  "name": "sidrah-currency-converter",
+  "version": "1.0.4",
+  "description": "Typescript Currency Converter",
+  "main": "index.js",
+  "type": "module",
+  "bin": "./app.js",
+  "scripts": {
+    "start": "node .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SidrahR/TS-Currency-Converter.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SidrahR/TS-Currency-Converter/issues"
+  },
+  "homepage": "https://github.com/SidrahR/TS-Currency-Converter#readme",
+  "devDependencies": {
+    "@types/inquirer": "^9.0.3"
+  },
+  "dependencies": {
+    "chalk": "^5.2.0",
+    "inquirer": "^9.1.4"
+  }
+}
